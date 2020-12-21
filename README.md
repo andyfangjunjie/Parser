@@ -6,6 +6,12 @@
 ![last-commit](https://badgen.net/github/last-commit/jin-yufeng/Parser)
 ![license](https://badgen.net/github/license/jin-yufeng/Parser)  
 
+## 编辑器内测 ##
+欢迎测试配套编辑器：  
+微信原生框架：点击 [代码片段](https://developers.weixin.qq.com/s/gWA0vLmt7Wmk) 即可在微信开发者工具中打开  
+`uni-app`：下载 [测试项目](https://6874-html-foe72-1259071903.tcb.qcloud.la/editable.zip?sign=cc0017be203fb3dbca62d33a0c15792e&t=1608447445) 到 `HBuilder X` 中即可试用  
+若发现问题或有改进建议可以通过 [问卷](https://www.wjx.cn/jq/101670510.aspx) 反馈
+
 ## 功能简介 ##
 - 支持匹配 `style` 中的样式  
 - 支持 `svg`  
